@@ -1,6 +1,6 @@
 # A simple React Calculator
 
-This will basic calculation operations like: +, −, ×, ÷, and %.
+This will performs some basic operations like: +, −, ×, ÷, and %.
 
 In the project directory, you can run:
 
