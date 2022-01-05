@@ -1,0 +1,42 @@
+.header {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  background: #d7d7d7;
+  height: 6rem;
+  font-size: 3rem;
+}
+
+.row {
+  display: flex;
+  align-content: center;
+  align-items: center;
+  background: aliceblue;
+  justify-content: space-between;
+}
+
+.row div {
+  width: 100%;
+}
+
+.row div button {
+  padding: 1.5rem;
+  width: 100%;
+  text-decoration: none;
+  font-size: 3rem;
+  border: 1px solid gray;
+}
+.secondary-color {
+  background: #000;
+  color: white;
+}
+
+.orange {
+  background: #f5923e;
+  color: white;
+}
+
+.error {
+  margin: 0.7rem;
+  color: red;
+}
